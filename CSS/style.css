@@ -1,0 +1,79 @@
+body {
+  background-color: burlywood;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-style: italic;
+}
+
+p {
+  font-size: 2em;
+}
+
+li {
+  font-style: italic;
+  list-style: none;
+}
+
+a {
+  color: purple;
+}
+
+.info {
+  margin-left: 170px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 0 5px;
+}
+
+#about-me {
+  color: white;
+}
+
+#about {
+  position: relative;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 5px;
+}
+
+/* stories Page */
+#hobbies {
+  position: relative;
+}
+
+#video {
+  position: absolute;
+  top: 5px;
+  left: 500px;
+}
+
+#firstname,
+#lastname,
+#hobbies {
+  display: block;
+}
+
+#paragraph-one {
+  color: lightskyblue;
+  width: 40%;
+}
+
+#paragraph-two {
+  color: cadetblue;
+}
